@@ -4,7 +4,7 @@
 		"details": [
 			{
 				"appID": "32W54CJ3FG.com.taxinord.moove",
-				"paths": [ "*"]
+				"paths": [ "/"]
 			}
 		]
 	}
