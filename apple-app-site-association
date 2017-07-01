@@ -5,6 +5,10 @@
 			{
 				"appID": "32W54CJ3FG.com.taxinord.moove",
 				"paths": [ "*"]
+			},
+			{
+				"appID": "RU4HYC7499.com.implantstudio.implantstudio",
+				"paths": ["*"]
 			}
 		]
 	}
